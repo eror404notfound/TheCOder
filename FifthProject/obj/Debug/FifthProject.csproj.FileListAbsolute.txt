@@ -1,0 +1,8 @@
+C:\Users\lenovo\source\repos\FifthProject\FifthProject\obj\Debug\FifthProject.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\FifthProject\FifthProject\obj\Debug\FifthProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\FifthProject\FifthProject\obj\Debug\FifthProject.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\FifthProject\FifthProject\bin\Debug\FifthProject.exe.config
+C:\Users\lenovo\source\repos\FifthProject\FifthProject\bin\Debug\FifthProject.exe
+C:\Users\lenovo\source\repos\FifthProject\FifthProject\bin\Debug\FifthProject.pdb
+C:\Users\lenovo\source\repos\FifthProject\FifthProject\obj\Debug\FifthProject.exe
+C:\Users\lenovo\source\repos\FifthProject\FifthProject\obj\Debug\FifthProject.pdb
